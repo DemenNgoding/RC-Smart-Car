@@ -10,6 +10,7 @@
             "includePath": [
                 "/Users/pian/Documents/Project/RC-Smart-Car/include",
                 "/Users/pian/Documents/Project/RC-Smart-Car/src",
+                "/Users/pian/Documents/Project/RC-Smart-Car/lib/Modules",
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -206,7 +207,6 @@
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/variants/esp32",
-                "/Users/pian/Documents/Project/RC-Smart-Car/lib/Modules",
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                 "/Users/pian/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
@@ -247,6 +247,7 @@
                 "path": [
                     "/Users/pian/Documents/Project/RC-Smart-Car/include",
                     "/Users/pian/Documents/Project/RC-Smart-Car/src",
+                    "/Users/pian/Documents/Project/RC-Smart-Car/lib/Modules",
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/newlib/platform_include",
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include",
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/freertos/include/esp_additions/freertos",
@@ -443,7 +444,6 @@
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/dio_qspi/include",
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/cores/esp32",
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/variants/esp32",
-                    "/Users/pian/Documents/Project/RC-Smart-Car/lib/Modules",
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/libraries/ArduinoOTA/src",
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/libraries/AsyncUDP/src",
                     "/Users/pian/.platformio/packages/framework-arduinoespressif32/libraries/BLE/src",
